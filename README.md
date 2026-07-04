@@ -77,7 +77,7 @@ pip install "shieldx[all]"
 
 ```bash
 # Clone the repository
-git clone https://github.com/csteams/shieldx.git
+git clone https://github.com/xd-Aditya/shieldx.git
 cd shieldx
 
 # Install in editable mode with dev dependencies
@@ -432,7 +432,7 @@ python examples/test_suite.py
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/csteams/shieldx.git
+   git clone https://github.com/xd-Aditya/shieldx.git
    cd shieldx
    ```
 
@@ -571,4 +571,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by the ShieldX team**
 
-For questions, issues, or suggestions, please [open an issue](https://github.com/csteams/shieldx/issues).
+For questions, issues, or suggestions, please [open an issue](https://github.com/xd-Aditya/shieldx/issues).
